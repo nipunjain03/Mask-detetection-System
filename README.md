@@ -9,4 +9,4 @@ A real-time face mask detection application built with Python, OpenCV, and Tenso
 - Practical application for monitoring public safety
 
 # Tech Stack:
-  Python, OpenCV, TensorFlow/Keras, NumPy, Pandas
+  Python, OpenCV, TensorFlow/Keras, NumPy, Pandas.
