@@ -3,7 +3,7 @@ A real-time face mask detection application built with Python, OpenCV, and Tenso
 
 # Features:
 
-- Real-time face detection using OpenCV
+- Real-time face detection using OpenCV.
 - Mask vs. No Mask classification with high accuracy
 - Live video stream integration with bounding boxes & probability scores
 - Practical application for monitoring public safety
